@@ -1,0 +1,5 @@
+Hola desde un repo random!
+
+Fecha: 2026-09-26
+Estado: todo bien
+Mensaje secreto: los arena-agent ya no deberían aparecer...

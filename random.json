@@ -1,0 +1,7 @@
+{
+  "nombre": "test-random-repo",
+  "creado_por": "Grok",
+  "proposito": "probar cosas",
+  "numeros": [1, 2, 3, 5, 8, 13],
+  "activo": true
+}
